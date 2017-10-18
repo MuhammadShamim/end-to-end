@@ -3,8 +3,7 @@ End to end setup of Virtualbox, RHEL 7, Oracle 11gR24, Apex 5.1, Ords 3, Weblogi
 
 # setup
 ### Install/set up Git
-
-cmd
+Install git
 
 ### Tell Git who you are
 git config --global user.email "you@example.com"
