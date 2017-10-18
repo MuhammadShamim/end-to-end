@@ -21,3 +21,8 @@ git commit -m "added my changes"
 
 # check status
 git status
+
+# Setting up Local Machine
+    [ ] Download and Install VirtualBox 5.1 https://www.virtualbox.org/
+    [ ] Download Red Hat Enterprise Linux 7.4.0 https://developers.redhat.com/products/rhel/download/
+    [ ] Download and Install Red Hat Enterprise Linux 7.4.0 https://developers.redhat.com/products/rhel/download/
